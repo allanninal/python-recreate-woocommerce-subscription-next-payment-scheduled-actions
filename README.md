@@ -1,7 +1,7 @@
 What Is This?
 -------------
 
-This python script recreates the Scheduled Actions of ACTIVE WooCommerce Subscriptions.
+This python script recreates the Next Payment Scheduled Actions of ACTIVE WooCommerce Subscriptions.
 
 How To Use This
 ---------------
